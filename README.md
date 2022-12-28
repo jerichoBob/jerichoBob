@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerichoBob
-- 👀 I’m interested in teams, leadership and software development. But I LOVE Physics (all flavors, but especially classical && GR)
+- 👀 I’m interested in teams, leadership and software development. But I ❤️ LOVE ❤️ Physics (all flavors, but especially classical && GR)
 - 🌱 I’m currently studying Physics @ NCSU in Raleigh NC
 - 💞️ I’m looking to collaborate on GR topics
 - 📫 How to reach me ... TBD :D 
