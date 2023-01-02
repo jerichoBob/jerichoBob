@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jerichoBob
 - 🌱 After a career in hardware and software development, I am now a first year graduate student studying Physics @ NCSU in Raleigh NC!
+- My primary interests are (but not limited to) General Relativity, Gravitational Waves, Galactic Formation, Dark Matter.
 - I am a recreational coder (in various languages, primarily in javascript these days) but love system design and architecture.
 
 <!---
