@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerichoBob (aka Bob Seaton)
 - 🌱 After a [career](https://www.linkedin.com/in/bobse/) in hardware and software development, I am now a first year graduate student studying Physics @ NCSU in Raleigh NC (https://physics.sciences.ncsu.edu/people/bob-seaton/) 😀🤓
-- I also work with BUILT (https://builtglobal.com) as an advisor/architect ❤️❤️
+- I also work with BUILT (https://builtglobal.com) as an advisor/consultant/architect ❤️❤️
 - My primary academic interests are (but not limited to) astrosphysics: Galactic Formation, CGM/DLAs, General Relativity, Gravitational Waves, etc.
 - I am a recreational coder (in various languages, primarily in React and Python these days) and I LOVE the process and explanatory power of system design and (good) architecture.
 - I am also a HUGE fan of Blender (https://www.blender.org).
