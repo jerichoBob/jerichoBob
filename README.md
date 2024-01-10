@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bob :D 
+- 👋 Hi, I’m Bob 👋
 - 🌱 After a [career](https://www.linkedin.com/in/bobse/) in hardware & software development, I am now a second year graduate student studying Physics @ NCSU in Raleigh NC (https://physics.sciences.ncsu.edu/people/bob-seaton/) 😀🤓
 - I also work with the innovative builders @ [BUILT](https://builtglobal.com) as a CTO Advisor/Consulting Architect ❤️❤️
 - My primary academic interests are (but not limited to) observational and theoretical astrosphysics: Galactic Formation/Evolution, the Circumgalactic Medium/Damped Lyman alpha systems, General Relativity, Gravitational Waves... It still amazes me how we can study something at a scale so large in both space and time. (and I LOVE being able to hold a galaxy in my hand when discussing these things <3)
