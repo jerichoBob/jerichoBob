@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bob 👋
-- I currently work with a group of crazy / cool / innovative builders @ [BUILT](https://builtglobal.com) as a CTO Advisor/Consulting Architect ❤️❤️
+- I currently work with a group of crazy / cool / innovative builders @ [BUILT](https://builtglobal.com) as a CTO Advisor/Consulting Architect ❤️❤️. My focus is on using AI to improve how wedeliver products and services to our clients, and helping our clients do the same - how they can use AI to deliver their goods and services to their customers (but only when there's not a 'standard software development way' to do it).
 
 - 🌱 Most recently, and after [several decades 😁](https://www.linkedin.com/in/bobse/) in hardware & software systems development, I went back to being a student and this past May (2024) received my Masters of Science in Physics @ NCSU in Raleigh NC (https://physics.sciences.ncsu.edu/people/bob-seaton/) 😀🤓 - one of the highlights of my life.
   
