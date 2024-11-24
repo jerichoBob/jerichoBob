@@ -7,4 +7,4 @@ My journey's been wonderfully non-linear: from building hardware/software system
 I'm a builder at heart – whether it's coding in React and Python, designing systems architecture, or creating in Blender. Each career pivot has added a unique perspective to how I approach problems and innovation.
 
 
-[![Portfolio Site Preview](screenshot.png)](https://jerichobob.github.io)
+[![Portfolio Site Preview](its-full-of-starts.png)](https://jerichobob.github.io)
