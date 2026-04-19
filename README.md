@@ -9,3 +9,15 @@ I'm a builder at heart – whether it's coding in React and Python, designing sy
 
 
 [![dancing](its-full-of-starts.png)](https://jerichobob.github.io)
+
+---
+
+## Changelog
+
+0.0.1
+
+### Release Notes
+
+#### v0.0.1 (2026-04-18)
+
+- chore: add preview animation GIF to media directory [`0e40ba8`]
