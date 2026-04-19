@@ -7,8 +7,10 @@ https://www.youtube.com/watch?v=0-htZLVrGrk&ab_channel=Waspie_Dwarf%27sAstronomy
 
 I'm a builder at heart – whether it's coding in React and Python, designing systems architecture, or creating in Blender. Each career pivot has added a unique perspective to how I approach problems and innovation.
 
+[![Three.js animation preview](media/preview.gif)](https://jerichobob.github.io)
 
-[![dancing](its-full-of-starts.png)](https://jerichobob.github.io)
+ 
+ [![dancing](its-full-of-starts.png)](https://jerichobob.github.io)
 
 ---
 
