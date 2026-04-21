@@ -13,9 +13,13 @@ I'm a builder at heart – whether it's coding in React and Python, designing sy
 
 ## Changelog
 
-0.0.1
+0.0.2
 
 ### Release Notes
+
+#### v0.0.2 (2026-04-20)
+
+- docs: add Orion Nebula thumbnail and link YouTube video in README [`26c1349`]
 
 #### v0.0.1 (2026-04-18)
 
